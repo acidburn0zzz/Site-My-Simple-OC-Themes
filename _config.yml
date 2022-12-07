@@ -1,4 +1,5 @@
 title: My Simple Themes
 description: Themes for OpenCore.
-google_analytics:
+github:
+  repository_url: https://github.com/chris1111/My-Simple-OC-Themes
 theme: jekyll-theme-cayman
