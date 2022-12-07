@@ -2,18 +2,62 @@
   "name": "My-Vuepress-Site",
   "version": "0.0.1",
   "description": "Test Vuepress",
-  "main": "index.js",
-  "authors": {
-    "name": "chris1111",
-    "email": "leblond1111@gmail.com"
-  },
-  "repository": "https://github.com/chris1111/My-Vuepress-Site/My-Vuepress-Site",
-  "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chris1111/My-Vuepress-Site/My-Vuepress-Site"
   },
   "license": "MIT",
+  "author": "chris1111",
+  "bin": {
+    "My-Vuepress-Site": "cli.js"
+  },
+  "files": [
+    "lib",
+    "cli.js",
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint . --ext .js"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ],
+    "package.json": [
+      "sort-package-json",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clipboardy": "^1.2.3",
+    "debug": "^3.1.0",
+    "execa": "^1.0.0",
+    "fs-extra": "^8.0.1",
+    "glob": "^7.1.4",
+    "inquirer": "^6.2.1",
+    "mkdirp": "^0.5.1",
+    "prettier": "^1.17.0",
+    "semver": "^6.1.0",
+    "sylvanas": "~0.0.3",
+    "yargs-parser": "^11.0.0",
+    "yeoman-generator": "^4.0.1"
+  },
   "devDependencies": {
-    "vuepress": "^1.5.3"
+    "eslint": "^7.11.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "husky": "1.3.1",
+    "lint-staged": "8.1.0",
+    "sort-package-json": "^1.46.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
