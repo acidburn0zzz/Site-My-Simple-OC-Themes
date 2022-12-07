@@ -1,0 +1,19 @@
+{
+  "name": "My-Vuepress-Site",
+  "version": "0.0.1",
+  "description": "Test Vuepress",
+  "main": "index.js",
+  "authors": {
+    "name": "chris1111",
+    "email": "leblond1111@gmail.com"
+  },
+  "repository": "https://github.com/chris1111/My-Vuepress-Site/My-Vuepress-Site",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
