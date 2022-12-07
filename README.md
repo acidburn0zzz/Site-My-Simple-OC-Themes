@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 New|Older
 :----|:----
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
