@@ -34,15 +34,15 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/185791797-577c1804-cbdb-4c9e-a6f7-fab3b8da6355.png)](https://youtu.be/jMYX4xlTJEE)
 
 
-### View ➤ [Icon Set](./Icon Set.md).
+### Download ➤ [Themes for OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Download.md).
 
-### Download ➤ [Themes for OpenCore](./Download.md).
+### View ➤ [Icon Set](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Icon%20Set.md).
 
-### Download ➤ [Background Collections](./Background Collections.md).
+### Download ➤ [Background Collections](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md).
 
 ------------------------------------------------------------------------------
 
-### Using Themes Downloader app for Downloads themes ➤ [Themes Downloader](./Themes Downloader.md)
+### Using Themes Downloader app for Downloads themes ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
 
 ### Resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
