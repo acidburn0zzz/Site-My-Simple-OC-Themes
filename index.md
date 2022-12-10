@@ -9,7 +9,7 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 ------------------------------------------------------------------------------
 
-<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/205388052-8e69852b-350e-4fcc-98e4-86717c77ce01.gif">
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/206879970-cb83e2be-1bdd-4a30-971a-98ce27f6eb01.gif ">
 
 
 ### First Use ➤  Change `Resources` in `EFI/OC`
