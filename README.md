@@ -11,6 +11,7 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/206879970-cb83e2be-1bdd-4a30-971a-98ce27f6eb01.gif ">
 
+
 ### First Use ➤  Change `Resources` in `EFI/OC`
 
 ### Setup PickerVariant config.plist  ☞ [Setup PickerVariant](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md)
@@ -29,12 +30,13 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 ### Download ➤ [Background Collections](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md).
 
 ------------------------------------------------------------------------------
-
-### Using Themes Downloader app for Downloads themes ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
+### How to create are own Theme ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
 
 ### Resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
-### How to create are own Theme ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
+
+### Using Themes Downloader app for Downloads themes ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
+
 
 ------------------------------------------------------------------------------
 
@@ -54,4 +56,3 @@ Details about how to use these, consult the [OpenCore Content Flavours](https://
 Details about how to use these, consult the [OpenCore configuration documentation PDF](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
 
 You can check the [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencores-gui).
-
