@@ -9,7 +9,7 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 ------------------------------------------------------------------------------
 
-<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Wonderfull.png">
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/216762076-d1e09e6d-53cb-4910-a6aa-99d9e4aabd3b.png">
 
 
 ### First Use ➤  Change `Resources` in `EFI/OC`
