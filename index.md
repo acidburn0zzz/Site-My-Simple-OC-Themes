@@ -8,7 +8,7 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 ------------------------------------------------------------------------------
 
-<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/216762076-d1e09e6d-53cb-4910-a6aa-99d9e4aabd3b.png">
+<img width="850" alt="1" src="/PICS/Flavours-Sonoma14.png">
 
 
 ### First Use ➤  Change `Resources` in `EFI/OC`
