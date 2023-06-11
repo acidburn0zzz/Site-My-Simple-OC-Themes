@@ -6,8 +6,12 @@ New|Older
 :----|:----
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
+------------------------------------------------------------------------------
+
+For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ [ macOS Sonoma 14 icons](https://github.com/chris1111/My-Simple-OC-Themes/discussions/18)
 
 ------------------------------------------------------------------------------
+
 
 <img width="850" alt="1" src="/PICS/Flavours-Sonoma14.png">
 
